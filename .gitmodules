@@ -9,3 +9,7 @@
 	path = aarch64-linux-gnu
 	url = git@github.com:radcolor/aarch64-linux-gnu.git
 	branch = master
+[submodule "arm-linux-gnueabi"]
+	path = arm-linux-gnueabi
+	url = git@github.com:radcolor/arm-linux-gnueabi.git
+	branch = master
